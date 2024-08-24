@@ -1,2 +1,2 @@
 # NslookupApp
-![alt text](http://url/to/img.png)
+![NetApp_img]([http://url/to/img.png](https://github.com/Firstoff/NetApp/blob/master/NetApp.png))
